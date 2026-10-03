@@ -1,0 +1,6 @@
+{
+  "name": "BrewCraft: Coffee Shop Simulator & Barista Tycoon",
+  "description": "Manage your specialty artisanal coffee shop, craft custom espresso recipes, upgrade commercial brewing equipment, hire & train baristas, and delight customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
